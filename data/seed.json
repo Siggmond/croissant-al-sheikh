@@ -1,0 +1,3 @@
+{
+  "note": "Runtime uses data/seed.ts. This JSON file is included for non-TypeScript imports or external migrations."
+}
